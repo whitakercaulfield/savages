@@ -1,0 +1,6 @@
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+  <svg xmlns="http://www.w3.org/2000/svg" class="my-svg" aria-hidden="true" focusable="false" viewBox="0 0 157 227" width="128px" height="128px">
+    <path
+      fill="#bc1864" transform="scale (-1, -1)" transform-origin="center"
+      d="M1 1 l53 0 l0 53 l-53 0 l0 -53 m0 60 l53 0 l0 53 l-53 0 l0 -53 m60 0 l53 0 l0 53 l-53 0 l0 -53 m0 -60 l53 0 l0 53 l-53 0 l0 -53 m60 0 l53 0 l0 53 l-53 0 l0 -53 m0 60 l53 0 l0 53 l-53 0 l0 -53 m0 60 l53 0 l0 53 l-53 0 l0 -53 m-3 -3 l-26 0 l0 26 l26 0 l0 -26 m-5 31 l-27 0 l0 -27 l-27 0 l0 53 l53 0 l0 -27 m4 35 l-75 0 l75 40 l0 -5 l13 -7 l0 10 l27 0 l0 -24 l32 -18 l-72 0 Z"/>
+  </svg>
