@@ -1,8 +1,8 @@
   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg class="my-svg" height="127" width="127" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 127 127">
 
-    <path d="M63,127 L63,14.2 S52,-2 31.5,1 S1,21.5 0,31.5 S-1,57 22,77 S47,93 63,127 " style="fill:#BD1864;"/>
+    <path d="M63,127 L63,14.2 S52,-2 31.5,1 S1,21.5 0,31.5 S-1,57 22,77 S47,93 63,127 " transform-origin="center" transform="scale(0.9,0.9)" style="fill:#BD1864;"/>
     
-    <path d="M63,39.8 L63,14.2 S52,-2 31.5,1 S1,21.5 0,31.5 S-1,57 22,77 S47,93 63,127 L63,126 S66.5,93 36,69 S28,6 63,39.8 " style="fill:#BD1864;" transform-origin="center" transform="scale(-1,1) translate(-4,0)" />
+    <path d="M63,39.8 L63,14.2 S52,-2 31.5,1 S1,21.5 0,31.5 S-1,57 22,77 S47,93 63,127 L63,126 S66.5,93 36,69 S28,6 63,39.8 " style="fill:#BD1864;" transform-origin="center" transform="scale(-0.9,0.9) translate(-4,0)" />
 
 </svg>
